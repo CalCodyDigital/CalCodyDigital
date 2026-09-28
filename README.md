@@ -4,7 +4,7 @@ A static, responsive first draft for the CalCody Digital brochure website. Open 
 
 ## Before launch
 
-- Confirm Starter and Business prices and the precise scope of each package.
+- Confirm the Starter (£449) and Business (£849) package scope and fulfilment details against the final offer.
 - Add the business contact email or a Formspree endpoint and replace the draft note in the contact panel with a working enquiry route.
 - Add a domain and test its DNS and HTTPS configuration.
 - Review the business wording and any legal pages needed for the final site.
