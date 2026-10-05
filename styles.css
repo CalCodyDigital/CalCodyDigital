@@ -35,3 +35,6 @@ main>.hero .hero-grid{min-height:0;padding:60px 0}
 .shopify-panel .section-kicker{margin-bottom:22px}
 .shopify-panel h2{font-size:clamp(2.3rem,3.5vw,3.7rem)}
 @media(max-width:680px){.shopify-panel{padding:0}.shopify-panel h2{font-size:2.65rem}}
+
+/* VAT forms part of the displayed package price. */
+.price .price-vat{color:var(--ink);font-weight:700}.featured .price .price-vat{color:#fff}
