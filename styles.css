@@ -20,4 +20,4 @@
 .platform-table thead th{overflow-wrap:anywhere}
 
 /* Shopify brandmark beside the heading */
-.shopify-panel h2 .shopify-title-brand{display:inline-flex;align-items:center;gap:.24em;color:inherit;white-space:nowrap}.shopify-logo{display:inline-flex;align-items:center;flex:none;line-height:0;letter-spacing:normal}.shopify-logo img{width:auto;height:1.05em;display:block}.shopify-logo:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
+.shopify-panel h2 .shopify-title-brand{color:inherit;white-space:nowrap}.shopify-logo{display:inline-block;vertical-align:-.12em;margin-right:.24em;line-height:0;letter-spacing:normal}.shopify-logo img{width:auto;height:.95em;display:block}.shopify-logo:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
