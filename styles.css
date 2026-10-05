@@ -19,5 +19,5 @@
 /* Keep platform names within their cells at narrow viewports. */
 .platform-table thead th{overflow-wrap:anywhere}
 
-/* Shopify brandmark in the service panel */
-.shopify-heading-row{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:12px}.shopify-heading-row .section-kicker{margin:0}.shopify-logo{display:block;flex:none;line-height:0}.shopify-logo img{width:72px;height:auto}.shopify-logo:focus-visible{outline:3px solid var(--blue);outline-offset:5px}@media(max-width:680px){.shopify-heading-row{flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:17px}.shopify-logo img{width:58px}}
+/* Shopify brandmark beside the heading */
+.shopify-panel h2 .shopify-title-brand{display:inline-flex;align-items:center;gap:.24em;color:inherit;white-space:nowrap}.shopify-logo{display:inline-flex;align-items:center;flex:none;line-height:0;letter-spacing:normal}.shopify-logo img{width:auto;height:1.05em;display:block}.shopify-logo:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
