@@ -38,3 +38,11 @@ main>.hero .hero-grid{min-height:0;padding:60px 0}
 
 /* VAT forms part of the displayed package price. */
 .price .price-vat{color:var(--ink);font-weight:700}.featured .price .price-vat{color:#fff}
+
+/* Contact enquiry form */
+.contact-form{display:grid;gap:16px;margin-top:24px}
+.contact-form label{display:grid;gap:7px;font-size:14px;font-weight:600;color:#fff}
+.contact-form input,.contact-form textarea{width:100%;min-width:0;box-sizing:border-box;border:1px solid #456287;border-radius:4px;padding:12px 14px;background:#fff;color:var(--ink);font:inherit;font-size:16px}
+.contact-form textarea{resize:vertical;min-height:130px}
+.contact-form input:focus-visible,.contact-form textarea:focus-visible{outline:3px solid #51c9ff;outline-offset:3px}
+.contact-form button{justify-self:start;cursor:pointer;border:0;font:inherit;font-weight:700}
